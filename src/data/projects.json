@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Web Scrapper",
+    "imageSrc": "projects/project.png",
+    "description": "Developed advanced Python web scraper for efficient data extraction.",
+    "skills": ["Python", "Beautiful Soup"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " Yulu Hypothesis Testing",
+    "imageSrc": "projects/project.png",
+    "description": "Analyzed key factors affecting Yulu’s electric cycle demand in India.",
+    "skills": ["Python", "Numpy", "Pandas", "Data Visualization" ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Bank Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Created Bank Management Backend for Enhanced Customer and Branch Services.",
+    "skills": ["Spring Boot", "Spring MVC"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

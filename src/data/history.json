@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Scaler School Of Technology",
+    "organisation": "Bengaluru",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "history/scaler.png"
+  },
+  {
+    "role": "Bits Pilani ",
+    "organisation": "Rajasthan",
+    "startDate": " July, 2023",
+    "endDate": "Present",
+    "experiences": [  ],
+    "imageSrc": "history/bits.png"
+  },
+  {
+    "role": "DAV Public School",
+    "organisation": "Sawang",
+    "startDate": "Apr, 2020",
+    "endDate": "Mar, 2022",
+    "experiences": [
+      
+    ],
+    "imageSrc": "history/dav.png"
+  }
+]
