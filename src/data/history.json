@@ -5,24 +5,22 @@
     "startDate": "July, 2023",
     "endDate": "Present",
     "experiences": [],
-    "imageSrc": "history/scaler.png"
+    "imageSrc": "/assets/history/scaler.png"
   },
   {
-    "role": "Bits Pilani ",
+    "role": "Bits Pilani",
     "organisation": "Rajasthan",
-    "startDate": " July, 2023",
+    "startDate": "July, 2023",
     "endDate": "Present",
-    "experiences": [  ],
-    "imageSrc": "history/bits.png"
+    "experiences": [],
+    "imageSrc": "/assets/history/bits.png"
   },
   {
     "role": "DAV Public School",
     "organisation": "Sawang",
     "startDate": "Apr, 2020",
     "endDate": "Mar, 2022",
-    "experiences": [
-      
-    ],
-    "imageSrc": "history/dav.png"
+    "experiences": [],
+    "imageSrc": "/assets/history/dav.png"
   }
 ]
